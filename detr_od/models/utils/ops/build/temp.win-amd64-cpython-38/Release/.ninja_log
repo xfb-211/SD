@@ -1,0 +1,5 @@
+# ninja log v7
+0	1814	7972267207462588	D:/Projects/xfb_project/Semi-DETR-main/detr_od/models/utils/ops/build/temp.win-amd64-cpython-38/Release/Projects/xfb_project/Semi-DETR-main/detr_od/models/utils/ops/src/cpu/ms_deform_attn_cpu.obj	14dc515c4375aa3c
+155	5247	7972267209016923	D:/Projects/xfb_project/Semi-DETR-main/detr_od/models/utils/ops/build/temp.win-amd64-cpython-38/Release/Projects/xfb_project/Semi-DETR-main/detr_od/models/utils/ops/src/vision.obj	446414b0e50fec97
+1	3031	7972305585248689	D:/Projects/xfb_project/Semi-DETR-main/detr_od/models/utils/ops/build/temp.win-amd64-cpython-38/Release/Projects/xfb_project/Semi-DETR-main/detr_od/models/utils/ops/src/cpu/ms_deform_attn_cpu.obj	ea2eeba505644b81
+14	7328	7972305585378706	D:/Projects/xfb_project/Semi-DETR-main/detr_od/models/utils/ops/build/temp.win-amd64-cpython-38/Release/Projects/xfb_project/Semi-DETR-main/detr_od/models/utils/ops/src/vision.obj	2d04ca02c6e79ca
